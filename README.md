@@ -14,7 +14,7 @@ file_02.bin md5 6dc2d05c8374293fe20bc4c22c236e2e<br/>
 file_03.bin md5 6dc2d05c8374293fe20bc4c22c236e2e<br/>
 файл_04.txt sha1 da39a3ee5e6b4b0d3255bfef95601890afd80709
 
-Пример вызова:
+Пример вызова:<br/>
 &lt;your program&gt; &lt;path to the input file&gt; &lt;path to the directory containing
 the files to check&gt;
 
